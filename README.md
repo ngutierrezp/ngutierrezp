@@ -22,7 +22,7 @@ in portable Bash.
 |   |   |
 |---|---|
 | <img src="https://gitfile.dev/apple-icon" height="20" valign="middle" /> &nbsp;**[Gitfile](https://gitfile.dev)**<br><sub>Your GitHub profile, designed like a business card — live SVG/PNG/ANSI banners and a REST API.</sub> | <img src="https://cvfolio.cl/icon.svg" height="20" valign="middle" /> &nbsp;**[CVFolio](https://cvfolio.cl)**<br><sub>Free CV builder with a guided editor and ATS-friendly PDF export.</sub> |
-| <img src="https://ampay.cl/apple-icon.png" height="20" valign="middle" /> &nbsp;**[Ampay](https://ampay.cl)**<br><sub>Save and share bank account details securely, and keep track of everyday spending.</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.fintiq.cl/logos/logo_fintiq_light.svg"><img src="https://www.fintiq.cl/logos/logo_fintiq_dark.svg" height="20" valign="middle" /></picture> &nbsp;**[Fintiq](https://www.fintiq.cl)**<br><sub>Track expenses, spot spending trends, and hit your monthly financial goals.</sub> |
+| <img src="https://ampay.cl/apple-icon.png" height="20" valign="middle" /> &nbsp;**[Ampay](https://ampay.cl)**<br><sub>Save and share bank account details securely, and keep track of everyday spending.</sub> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.fintiq.cl/logos/fintiq-mark.svg"><img src="https://www.fintiq.cl/logos/logo_fintiq_dark.svg" height="20" valign="middle" /></picture> &nbsp;**[Fintiq](https://www.fintiq.cl)**<br><sub>Track expenses, spot spending trends, and hit your monthly financial goals.</sub> |
 
 ## 🧰 Stack
 
